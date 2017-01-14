@@ -26,37 +26,27 @@
 
 ### Web 前端
 
-* 熟悉 HTML/CSS，能够编写语义化的 HTML，模块化 CSS，实现常见页面布局和效果
-* 了解常见的浏览器兼容性问题及解决方案
-* 熟悉模块化，面向对象的 JavaScript
-* 接触并对 ECMAScript 6 有一定了解
-* 了解原生 DOM 和 BOM，能够完成桌面/移动端组件和 Ajax 数据交互
-* 有 LessCss / SassCss 使用经验
-* 有 Grunt / Gulp / RequireJS / Browserify 使用经验
-* 了解 MV* 机制，使用过 Backbone.js / AngularJS / Mithril
-* 熟悉常见的前端开发规范，对前端性能和网页动画优化有深入研究
-* 日常使用 Grunt / Gulp，可以应用 Gulp 定制前端工作流
+* 熟悉 HTML5/CSS3/ES6
+* 熟悉模块化开发和常用前端工作流
+* 熟悉数据可视化开发
+* 了解常见浏览器兼容和响应式开发
+* 对前端性能和网页动画优化有一定研究
 
 ### Web 后端
 
 * 熟悉 Node.js
-  * 能使用 Node.js API 或 Express 搭建 API 服务或中小型网站，编写 Express 中间件
+  * 能使用 Node 搭建 API 服务或中小型网站
   * 了解异步 I/O 及事件驱动模型，了解常见的异步编程解决方案
-  * 熟悉 Node.js 社区常见工具（Jade / Underscore 等）
+  * 熟悉 Node.js 社区常见工具
   * 能够使用 Mocha & Chai 编写单元测试
   * 能够使用 PM2 进行项目部署
-* 了解 Ruby on Rails
-  * 了解 Rails 的 MVC 机制
-  * 曾用 Rails 开发中型网站，负责部分 model / controller 模块的搭建
-* 其他
-  * 了解 HTTP、TCP/IP、WebSocket 协议
-  * 了解 MongoDB / MySQL / PostgreSQL
+* PHP
+  * 熟悉 Laravel 框架的使用，对框架机制有一定了解
 
 ### 其他
 
-* 三年 \*nix 使用经验，熟悉常用命令，能编写简单 bash 脚本
-* 日常使用 Git, Vim 与 Atom
-* 能够使用 LaTeX 和 Markdown 进行写作
+* 熟练使用 *nix 系统，能编写简单 bash 脚本
+* 日常使用 Git, Vim/Sublime/VSCode
 * 具备基本的 Web 安全知识
 
 ## 个人经历
@@ -81,30 +71,16 @@
   * 负责团队内工作流及部署流程的搭建
   * 涉及技术包括 Node / Rails / Famo.us / Mithril / Cordova
 * 2015.7至今 YY.Inc(欢聚时代) 前端工程师
-
+  * 内部报表系统/CMS系统的前端搭建及维护
+  * 各类可视化效果制作
+  * 构建移动端 H5 页面
+  
 ### 其他
 
 * 曾 [组织](https://ruby-china.org/topics/15741) 广州大学城 Ruby 小组活动
 * [GZRuby](http://www.gzruby.org) 社区活动组织者
 * 先后两次参与 [广州创客马拉松](http://gzhack.io) 的组织工作
-
-## 项目经历
-
-#### [纽伦](http://dxneuron.com/)
-
-在线的1对1留学在线辅导平台，学生可以通过在线视频及聊天和留学导师进行交流。
-
-本人完成了此项目的基础架构设计、大部分的前端工作和消息系统。应用 Node.js 作为后台，编写部分页面组件时采用了 Mithril。
-
-#### [FBench](https://github.com/allenfantasy/FBench)
-
-对当前主流的网页动画实现方法（框架/库）进行平行测试，计算储存各方法在实现同一动画效果下的 FPS 值，并用可视化方式展现，以评估不同方法在性能上的优劣。兼容主流（包括移动端）浏览器。
-
-#### [famous-rails (deprecated)](https://github.com/allenfantasy/famous-rails)
-
-一个 ruby 的 gem，可让开发者在 Rails 中方便的使用 Famo.us 框架
-
-#### [reeder](https://github.com/allenfantasy/reeder)
+* [Startup Salad](http://www.salad.co/) 广州地区志愿者
 
 RSS/Atom 阅读器，后端采用基于 Java 的 Play! 框架，前端使用 AngularJS。
 
