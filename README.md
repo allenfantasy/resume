@@ -1,6 +1,5 @@
 个人简历
 ======================
-吴泽秋的个人简历
 
 **Email**：allenwu1018@gmail.com
 
@@ -8,7 +7,7 @@
 
 **github**：https://github.com/allenfantasy
 
-**英语水平**：四级 596 六级 595。能熟练阅读、书写英文，并能[翻译国外技术文档](https://github.com/allenfantasy/mithril-doc-cn)。
+**英语水平**：六级 595。能熟练阅读书写[翻译](https://github.com/allenfantasy/mithril-doc-cn)英语文档。
 
 ## 自我简介
 
@@ -66,7 +65,7 @@
   * 负责实现各类产品原型
   * 负责团队内工作流及部署流程的搭建
   * 涉及技术包括 Node / Rails / Famo.us / Mithril / Cordova
-* 2015.7至今 YY.Inc(欢聚时代) 前端工程师
+* 2015.7至今 YY.Inc 前端工程师
   * 内部报表系统/CMS系统的前端搭建及维护
   * 各类可视化效果制作
   * 构建移动端 H5 页面
