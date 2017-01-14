@@ -41,7 +41,7 @@
   * 能够使用 Mocha & Chai 编写单元测试
   * 能够使用 PM2 进行项目部署
 * PHP
-  * 熟悉 Laravel 框架的使用，对框架机制有一定了解
+  * 熟悉 Laravel 框架的使用，对框架机制有一定了解
 
 ### 其他
 
@@ -81,13 +81,3 @@
 * [GZRuby](http://www.gzruby.org) 社区活动组织者
 * 先后两次参与 [广州创客马拉松](http://gzhack.io) 的组织工作
 * [Startup Salad](http://www.salad.co/) 广州地区志愿者
-
-RSS/Atom 阅读器，后端采用基于 Java 的 Play! 框架，前端使用 AngularJS。
-
-#### [blog](https://github.com/allenfantasy/allenfantasy.github.io)
-
-个人博客源码。
-
-#### Others
-
-还有其他的可以上 Github 查看：https://github.com/allenfantasy
