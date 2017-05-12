@@ -67,7 +67,9 @@
   * 涉及技术包括 Node / Rails / Famo.us / Mithril / Cordova
 * 2015.7至今 YY.Inc 前端工程师
   * 内部报表系统/CMS系统的前端搭建及维护
-  * 各类可视化效果制作
+    * 维护并重构旧系统: Bootstrap/jQuery/requireJS
+    * 搭建新系统: 使用 Vue.js
+  * 各类可视化效果制作
   * 构建移动端 H5 页面
   
 ### 其他
